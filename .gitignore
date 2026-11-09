@@ -3,4 +3,6 @@ __pycache__/
 .venv/
 venv/
 .vscode/
-.DS_Store
+.DS_Store01_deliverables/
+sources/
+MGIS355_Project2.pdf
